@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheBidonJoe
+- 👋 Hi, I’m @TheBidonJoe and I'm 23 years old ^_^
 - 👀 I’m interested in anything related to coding 
 - 🌱 I’m currently learning Python 🐍
 - 💬 Languages: German (native) and English (fluent)
